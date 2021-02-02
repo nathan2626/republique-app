@@ -1,0 +1,7 @@
+{
+  "name": "vue-ionic-commune-nat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
